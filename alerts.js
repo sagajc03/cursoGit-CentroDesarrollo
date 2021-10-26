@@ -1,3 +1,3 @@
 function Alerta(){
-    alert('Soy una alerta')
+    alert('Soy una alerta');
 }
